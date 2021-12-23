@@ -1,0 +1,1 @@
+# okta-jamf-offboarding-tool
